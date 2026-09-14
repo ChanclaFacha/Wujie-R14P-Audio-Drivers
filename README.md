@@ -64,7 +64,7 @@ Important: Always check the hardware ID before installing a driver. Similar-look
 ✅ Known Working Drivers
 Intel Smart Sound Technology
 
-Version: 10.29.0.12635
+Version: 10.29.0.12635 https://www.catalog.update.microsoft.com/Search.aspx?q=10.29.0.12635
 
 Main INF:
 
@@ -79,7 +79,7 @@ R14P subsystem:
 SUBSYS_17002782
 Realtek High Definition Audio
 
-Version: 6.0.9885.1
+Version: 6.0.9885.1 https://www.catalog.update.microsoft.com/Search.aspx?q=6.0.9885.1 
 
 Main INF:
 
@@ -250,11 +250,25 @@ and:
 
 Realtek:
 INTELAUDIO\FUNC_01&VEN_10EC&DEV_0269&SUBSYS_27821700
+
 📋 Hardware ID Summary
+
 Device	Hardware ID
 Intel SST BUS	PCI\VEN_8086&DEV_51CA&SUBSYS_17002782
 Realtek Audio	INTELAUDIO\FUNC_01&VEN_10EC&DEV_0269&SUBSYS_27821700
 Realtek HDA	HDAUDIO\FUNC_01&VEN_10EC&DEV_0269&SUBSYS_27821700
+
+Working Audio Drivers tested
+
+Intel Smart Sound Technology BUS https://www.catalog.update.microsoft.com/Search.aspx?q=10.29.0.12635
+Version: 10.29.0.12635
+INF: IntcAudioBus.inf
+
+Realtek High Definition Audio https://www.catalog.update.microsoft.com/Search.aspx?q=6.0.9885.1
+Version: 6.0.9885.1
+INF: HDXSSTEmdoor.inf
+SYS: RTKVHD64.sys
+CAT: HDXRT.CAT
 
 ⚠️ Disclaimer
 
