@@ -1,0 +1,24 @@
+🛠️ Known Working Driver Combination
+Intel SST BUS
+
+Driver: Intel Smart Sound Technology BUS
+Version: 10.29.0.12635
+
+The driver package contains support for:
+
+PCI\VEN_8086&DEV_51CA
+
+and the R14P-specific subsystem:
+
+SUBSYS_17002782
+
+Realtek Audio
+
+Driver: Realtek High Definition Audio
+Version: 6.0.9885.1
+INF: HDXSSTEmdoor.inf
+
+The INF contains the exact R14P audio hardware IDs:
+
+INTELAUDIO\FUNC_01&VEN_10EC&DEV_0269&SUBSYS_27821700
+HDAUDIO\FUNC_01&VEN_10EC&DEV_0269&SUBSYS_27821700
