@@ -26,7 +26,7 @@ This repository aims to provide:
 | Component | Information |
 |---|---|
 | **Laptop** | Mechrevo R14P |
-| **Operating System** | Windows 11 |
+| **Operating System** | Windows 11 (Intel Ver.|
 | **Audio Codec** | Realtek ALC245 |
 | **Audio Controller** | Intel Smart Sound Technology (SST) |
 | **Realtek Driver** | 6.0.9885.1 |
