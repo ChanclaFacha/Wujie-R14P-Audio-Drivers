@@ -281,8 +281,6 @@ Windows Driver Store
 Microsoft Windows Plug and Play infrastructure
 ⭐ If this helped you
 
-If you own a Mechrevo R14P and this repository helped you recover your audio or another driver, consider ⭐ starring the repository.
-
 If you discover another working driver version or hardware configuration, feel free to contribute.
 
 Also feel free to ask.
