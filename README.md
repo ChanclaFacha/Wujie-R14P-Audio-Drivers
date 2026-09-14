@@ -306,16 +306,6 @@ If you own a Mechrevo R14P and this repository helped you recover your audio or 
 If you discover another working driver version or hardware configuration, feel free to contribute.
 
 
-### 🗂️ Y para que se vea todavía más bonito
-
-Yo pondría el repositorio con este nombre:
-
-**`Mechrevo-R14P-Drivers`**
-
-Y la descripción de GitHub:
-
-> **Windows drivers, hardware IDs and recovery tools for the Mechrevo R14P.**
-
 Topics:
 
 ```text
