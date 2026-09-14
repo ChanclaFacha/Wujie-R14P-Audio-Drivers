@@ -255,27 +255,7 @@ Device	Hardware ID
 Intel SST BUS	PCI\VEN_8086&DEV_51CA&SUBSYS_17002782
 Realtek Audio	INTELAUDIO\FUNC_01&VEN_10EC&DEV_0269&SUBSYS_27821700
 Realtek HDA	HDAUDIO\FUNC_01&VEN_10EC&DEV_0269&SUBSYS_27821700
-📁 Repository Structure
-Mechrevo-R14P-Drivers/
-│
-├── README.md
-│
-├── Audio/
-│   ├── Intel-SST/
-│   │   └── 10.29.0.12635/
-│   │
-│   └── Realtek/
-│       └── 6.0.9885.1/
-│
-├── Chipset/
-│
-├── Graphics/
-│
-├── Network/
-│
-└── Documentation/
-    ├── Hardware-IDs.txt
-    └── Recovery.md
+
 ⚠️ Disclaimer
 
 This repository is intended for driver identification, documentation and recovery purposes.
@@ -305,6 +285,7 @@ If you own a Mechrevo R14P and this repository helped you recover your audio or 
 
 If you discover another working driver version or hardware configuration, feel free to contribute.
 
+Also feel free to ask.
 
 Topics:
 
